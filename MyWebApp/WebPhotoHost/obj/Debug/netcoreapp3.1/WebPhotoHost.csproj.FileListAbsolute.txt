@@ -1,0 +1,271 @@
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\appsettings.json
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.exe
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.csprojAssemblyReference.cache
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.AssemblyInfoInputs.cache
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.AssemblyInfo.cs
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.RazorAssemblyInfo.cache
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.RazorAssemblyInfo.cs
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.TagHelpers.input.cache
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.TagHelpers.output.cache
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.RazorCoreGenerate.cache
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.RazorTargetAssemblyInfo.cache
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.RazorTargetAssemblyInfo.cs
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\staticwebassets\WebPhotoHost.StaticWebAssets.Manifest.cache
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\staticwebassets\WebPhotoHost.StaticWebAssets.xml
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.csproj.CopyComplete
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.deps.json
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.runtimeconfig.json
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.runtimeconfig.dev.json
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.pdb
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.Views.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.Views.pdb
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.Views.pdb
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.dll
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.pdb
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.genruntimeconfig.cache
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CssPartial.cshtml.g.cs
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MetatagsPartial.cshtml.g.cs
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SidebarPartial.cshtml.g.cs
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\PhotoHost\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.csproj.CoreCompileInputs.cache
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.MvcApplicationPartsAssemblyInfo.cache
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+C:\PhotoHost\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.exe
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\appsettings.production.json
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\appsettings.staging.json
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.deps.json
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.runtimeconfig.json
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.runtimeconfig.dev.json
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.pdb
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.Views.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.Views.pdb
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.csprojAssemblyReference.cache
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.AssemblyInfoInputs.cache
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.AssemblyInfo.cs
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.csproj.CoreCompileInputs.cache
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.RazorAssemblyInfo.cache
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.RazorAssemblyInfo.cs
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.TagHelpers.input.cache
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.TagHelpers.output.cache
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.RazorCoreGenerate.cache
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CssPartial.cshtml.g.cs
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MetatagsPartial.cshtml.g.cs
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SidebarPartial.cshtml.g.cs
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.RazorTargetAssemblyInfo.cache
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.RazorTargetAssemblyInfo.cs
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.Views.pdb
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.csproj.CopyComplete
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\staticwebassets\WebPhotoHost.StaticWebAssets.Manifest.cache
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\staticwebassets\WebPhotoHost.StaticWebAssets.xml
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.dll
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.pdb
+C:\Users\snake\Desktop\Мой сайт\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.genruntimeconfig.cache
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\appsettings.production.json
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\appsettings.staging.json
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.exe
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.deps.json
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.runtimeconfig.json
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.runtimeconfig.dev.json
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.pdb
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.Views.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\WebPhotoHost.Views.pdb
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.csprojAssemblyReference.cache
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.AssemblyInfoInputs.cache
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.AssemblyInfo.cs
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.csproj.CoreCompileInputs.cache
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.RazorAssemblyInfo.cache
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.RazorAssemblyInfo.cs
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.TagHelpers.input.cache
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.TagHelpers.output.cache
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.RazorCoreGenerate.cache
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CssPartial.cshtml.g.cs
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MetatagsPartial.cshtml.g.cs
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SidebarPartial.cshtml.g.cs
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.RazorTargetAssemblyInfo.cache
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.RazorTargetAssemblyInfo.cs
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.Views.pdb
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.csproj.CopyComplete
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\staticwebassets\WebPhotoHost.StaticWebAssets.Manifest.cache
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\staticwebassets\WebPhotoHost.StaticWebAssets.xml
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.dll
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.pdb
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\WebPhotoHost.genruntimeconfig.cache
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\snake\Desktop\MyWebApp\WebPhotoHost\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Index.cshtml.g.cs
