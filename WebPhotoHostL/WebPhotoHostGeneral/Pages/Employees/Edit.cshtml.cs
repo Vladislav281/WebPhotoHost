@@ -34,9 +34,13 @@ namespace WebPhotoHostGeneral.Pages.Employees
 
         public string Message { get; set; }
         // получение информации 
-        public IActionResult OnGet(int id)
+        public IActionResult OnGet(int? id)
         {
-            Employee = _employeeRepository.GetEmployee(id);
+            if (id.HasValue)
+                Employee = _employeeRepository.GetEmployee(id.Value);
+            else
+                Employee = new Employee();
+
             if (Employee == null)
                 return RedirectToPage("/NotFound");
             return Page();
@@ -53,14 +57,23 @@ namespace WebPhotoHostGeneral.Pages.Employees
                     if (Employee.PhotoPath != null)
                     {
                         string filePath = Path.Combine(_webHostEnvironment.WebRootPath, "images", Employee.PhotoPath);
-                        System.IO.File.Delete(filePath);
+                        if(Employee.PhotoPath != "noimage.png")
+                            System.IO.File.Delete(filePath);
                     }
 
                     Employee.PhotoPath = ProcessUploadFile();
                 }
-                Employee = _employeeRepository.Update(Employee);
 
-                TempData["SuccessMessage"] = $"Update {Employee.Name} successful!";
+                if (Employee.Id > 0)
+                {
+                    Employee = _employeeRepository.Update(Employee);
+                    TempData["SuccessMessage"] = $"Update {Employee.Name} successful!";
+                }
+                else
+                {
+                    Employee = _employeeRepository.Add(Employee);
+                    TempData["SuccessMessage"] = $"Adding {Employee.Name} successful!";
+                }
                 return RedirectToPage("Employees");
             }
                 return Page();

@@ -2,6 +2,7 @@
 @model WebPhotoHostGeneral.Pages.Employees.EmployeesModel
 @{
     ViewData["Title"] = "Employees";
+    ViewData["ShowButtons"] = true;
 }
 
 @if (TempData["SuccessMessage"] != null)
@@ -11,32 +12,25 @@
     </div>
 }
 
+<form method="get" class="mb-3">
+    <div class="input-group">
+        <input class="form-control" asp-for="SearchTerm" />
+        <div class="input-group-append">
+            <button type="submit" class="btn btn-primary">Search</button>
+        </div>
+    </div>
+</form>
+
+@*await Component.InvokeAsync("HeadCount")*@
+<vc:head-count department="@null"></vc:head-count>
+
 <h1>Employees</h1>
 
 <div class="row">
     @foreach(var item in Model.Employees)
     {
-        // Формируем путь к фотографиям
-        var photoPath = $"/images/{item.PhotoPath ?? "noimage.png"}";
-        <div class="col-12 col-sm-6 col-lg-4">
-            <div class="card-deck">
-                <div class="card m-3 cardBoxShadow">
-                    <div class="card-header text-center cardHeaderStyle">
-                        <h3>@item.Name</h3>
-                    </div>
-
-                    <div class="text-center cardBodyStyle">
-                        <img class="card-image-top imageThumbnail" src="@photoPath" asp-append-version="true"/>
-                    </div>
-
-                    <div calss="card-footer text-center">
-                        <a asp-page="/Employees/Details" asp-route-Id="@item.Id" class="btn btn-success m-1 buttonShadows">View</a>
-                        <a asp-page="/Employees/Edit" asp-route-Id="@item.Id" class="btn btn-primary m-1 buttonShadows">Edit</a>
-                        <a href="#" class="btn btn-danger m-1 buttonShadows">Delete</a>
-                    </div>
-
-                </div>
-            </div>
-        </div>
+       <div class="col-12 col-sm-6 col-lg-4">
+           <partial name="_DisplayEmployeePartial" model="item" view-data="ViewData"/> 
+       </div>
     }
 </div>

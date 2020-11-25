@@ -4,6 +4,14 @@
     ViewData["Title"] = "Employee Details";
     var photoPath = $"/images/{Model.Employee.PhotoPath ?? "noimage.png"}";
 }
+
+<div class="row justify-content-center m-3">
+    <div class="col col-lg-8">
+        @*@await Component.InvokeAsync("HeadCount", new { department = Model.Employee.Department })*@
+        <vc:head-count department="@Model.Employee.Department"></vc:head-count>
+    </div>
+</div>
+
 <div class="row justify-content-center m-3">
     <div class="col col-lg-8">
         <div class="card cardBoxShadow">

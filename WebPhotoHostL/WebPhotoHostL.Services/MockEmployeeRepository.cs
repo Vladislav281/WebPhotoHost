@@ -68,6 +68,30 @@ namespace WebPhotoHostL.Services
             return newEmployee;
         }
 
+        public Employee Delete(int id)
+        {
+            Employee employeeToDelete = _employeeList.FirstOrDefault(x => x.Id == id);
+            if (employeeToDelete != null)
+                _employeeList.Remove(employeeToDelete);
+            
+            return employeeToDelete;
+        }
+
+        public IEnumerable<DeptHeadCount> EmployeeCountByDept(Dept? dept)
+        {
+            IEnumerable<Employee> query = _employeeList;
+
+            if (dept.HasValue)
+                query = query.Where(x => x.Department == dept.Value);
+
+            return query.GroupBy(x => x.Department)
+                                .Select(x => new DeptHeadCount()
+                                {
+                                    Deptepartment = x.Key.Value,
+                                    Count = x.Count()
+                                }).ToList();
+        }
+
         public IEnumerable<Employee> GetAllEmployees()
         {
             return _employeeList;
@@ -76,6 +100,14 @@ namespace WebPhotoHostL.Services
         public Employee GetEmployee(int id)
         {
             return _employeeList.FirstOrDefault(x => x.Id == id);
+        }
+
+        public IEnumerable<Employee> Search(string searchTerm)
+        {
+            if (string.IsNullOrWhiteSpace(searchTerm))
+                return _employeeList;
+
+            return _employeeList.Where(x => x.Name.ToLower().Contains(searchTerm.ToLower()) || x.Email.Contains(searchTerm.ToLower()));
         }
 
         public Employee Update(Employee updatedEmployee)

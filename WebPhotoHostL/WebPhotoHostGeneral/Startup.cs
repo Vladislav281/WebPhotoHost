@@ -10,6 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using WebPhotoHostL.Services;
 using Microsoft.AspNetCore.Routing;
+using Microsoft.EntityFrameworkCore;
 
 namespace WebPhotoHostGeneral
 {
@@ -25,7 +26,13 @@ namespace WebPhotoHostGeneral
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddSingleton<IEmployeeRepository, MockEmployeeRepository>();
+            
+            services.AddDbContextPool<AppDbContext>(options =>
+            {
+                options.UseSqlServer(Configuration.GetConnectionString("EmployeeDBConnection"));
+            });
+            //services.AddSingleton<IEmployeeRepository, MockEmployeeRepository>(); подключение к псевдо бд
+            services.AddScoped<IEmployeeRepository, SQLEmployeeRepository>(); // реальная бд
             services.AddRazorPages();
             services.Configure<RouteOptions>(options =>
             {
