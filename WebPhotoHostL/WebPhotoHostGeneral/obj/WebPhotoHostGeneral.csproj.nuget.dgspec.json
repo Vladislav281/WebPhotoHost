@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\snake\\source\\repos\\WebPhotoHostL\\WebPhotoHostGeneral\\WebPhotoHostGeneral.csproj": {}
+    "C:\\Users\\User\\Desktop\\WebPhotoHost-Vlad\\WebPhotoHostL\\WebPhotoHostGeneral\\WebPhotoHostGeneral.csproj": {}
   },
   "projects": {
-    "C:\\Users\\snake\\source\\repos\\WebPhotoHostL\\WebPhotoHostGeneral\\WebPhotoHostGeneral.csproj": {
+    "C:\\Users\\User\\Desktop\\WebPhotoHost-Vlad\\WebPhotoHostL\\WebPhotoHostGeneral\\WebPhotoHostGeneral.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\snake\\source\\repos\\WebPhotoHostL\\WebPhotoHostGeneral\\WebPhotoHostGeneral.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\WebPhotoHost-Vlad\\WebPhotoHostL\\WebPhotoHostGeneral\\WebPhotoHostGeneral.csproj",
         "projectName": "WebPhotoHostGeneral",
-        "projectPath": "C:\\Users\\snake\\source\\repos\\WebPhotoHostL\\WebPhotoHostGeneral\\WebPhotoHostGeneral.csproj",
-        "packagesPath": "C:\\Users\\snake\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\snake\\source\\repos\\WebPhotoHostL\\WebPhotoHostGeneral\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\WebPhotoHost-Vlad\\WebPhotoHostL\\WebPhotoHostGeneral\\WebPhotoHostGeneral.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\WebPhotoHost-Vlad\\WebPhotoHostL\\WebPhotoHostGeneral\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\snake\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -30,12 +26,13 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\snake\\source\\repos\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj": {
-                "projectPath": "C:\\Users\\snake\\source\\repos\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj"
+              "C:\\Users\\User\\Desktop\\WebPhotoHost-Vlad\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\WebPhotoHost-Vlad\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj"
               },
-              "C:\\Users\\snake\\source\\repos\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj": {
-                "projectPath": "C:\\Users\\snake\\source\\repos\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj"
+              "C:\\Users\\User\\Desktop\\WebPhotoHost-Vlad\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\WebPhotoHost-Vlad\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj"
               }
             }
           }
@@ -48,7 +45,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "BCrypt.Net-Core": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[3.1.8, )"
@@ -58,6 +60,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
             }
           },
           "imports": [
@@ -78,26 +84,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\snake\\source\\repos\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj": {
+    "C:\\Users\\User\\Desktop\\WebPhotoHost-Vlad\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\snake\\source\\repos\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\WebPhotoHost-Vlad\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj",
         "projectName": "WebPhotoHostL.Models",
-        "projectPath": "C:\\Users\\snake\\source\\repos\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj",
-        "packagesPath": "C:\\Users\\snake\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\snake\\source\\repos\\WebPhotoHostL\\WebPhotoHostL.Models\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\WebPhotoHost-Vlad\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\WebPhotoHost-Vlad\\WebPhotoHostL\\WebPhotoHostL.Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\snake\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -108,6 +110,7 @@
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -119,7 +122,12 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
+            "BCrypt.Net-Core": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -141,26 +149,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\snake\\source\\repos\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj": {
+    "C:\\Users\\User\\Desktop\\WebPhotoHost-Vlad\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\snake\\source\\repos\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\WebPhotoHost-Vlad\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj",
         "projectName": "WebPhotoHostL.Services",
-        "projectPath": "C:\\Users\\snake\\source\\repos\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj",
-        "packagesPath": "C:\\Users\\snake\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\snake\\source\\repos\\WebPhotoHostL\\WebPhotoHostL.Services\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\WebPhotoHost-Vlad\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\WebPhotoHost-Vlad\\WebPhotoHostL\\WebPhotoHostL.Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\snake\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -171,9 +175,10 @@
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\snake\\source\\repos\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj": {
-                "projectPath": "C:\\Users\\snake\\source\\repos\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj"
+              "C:\\Users\\User\\Desktop\\WebPhotoHost-Vlad\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\WebPhotoHost-Vlad\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj"
               }
             }
           }
@@ -186,7 +191,12 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
+            "BCrypt.Net-Core": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.9, )"
@@ -218,7 +228,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

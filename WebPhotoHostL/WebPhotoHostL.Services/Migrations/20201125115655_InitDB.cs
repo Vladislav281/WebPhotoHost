@@ -7,7 +7,7 @@ namespace WebPhotoHostL.Services.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Employees",
+                name: "Publications",
                 columns: table => new
                 {
                     Id = table.Column<int>(nullable: false)
@@ -19,14 +19,14 @@ namespace WebPhotoHostL.Services.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Employees", x => x.Id);
+                    table.PrimaryKey("PK_Publications", x => x.Id);
                 });
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Employees");
+                name: "Publications");
         }
     }
 }

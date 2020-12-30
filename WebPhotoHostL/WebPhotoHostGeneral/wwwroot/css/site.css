@@ -126,8 +126,7 @@ body {
     background: -webkit-linear-gradient(left, rgba(19,6,120,1) 0%, rgba(23,8,158,1) 31%, rgba(36,12,245,1) 51%, rgba(94,76,255,1) 71%, rgba(156,145,255,1) 100%);
     background: -o-linear-gradient(left, rgba(19,6,120,1) 0%, rgba(23,8,158,1) 31%, rgba(36,12,245,1) 51%, rgba(94,76,255,1) 71%, rgba(156,145,255,1) 100%);
     background: -ms-linear-gradient(left, rgba(19,6,120,1) 0%, rgba(23,8,158,1) 31%, rgba(36,12,245,1) 51%, rgba(94,76,255,1) 71%, rgba(156,145,255,1) 100%);
-    background: linear-gradient(to right, rgba(19,6,120,1) 0%, rgba(23,8,158,1) 31%, rgba(36,12,245,1) 51%, rgba(94,76,255,1) 71%, rgba(156,145,255,1) 100%);
-
+    background: linear-gradient(to right, rgba(255, 0, 0, 1) 0%, rgba(86, 255, 0, 1) 31%, rgba(0, 231, 255, 1) 51%, rgba(217, 213, 255, 1) 71%, rgba(255, 59, 0, 1) 100%);
 }
 
 .containerBordered {

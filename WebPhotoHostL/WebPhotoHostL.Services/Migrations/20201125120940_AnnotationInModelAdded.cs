@@ -8,7 +8,7 @@ namespace WebPhotoHostL.Services.Migrations
         {
             migrationBuilder.AlterColumn<string>(
                 name: "Name",
-                table: "Employees",
+                table: "Publications",
                 maxLength: 50,
                 nullable: false,
                 oldClrType: typeof(string),
@@ -16,7 +16,7 @@ namespace WebPhotoHostL.Services.Migrations
 
             migrationBuilder.AlterColumn<string>(
                 name: "Email",
-                table: "Employees",
+                table: "Publications",
                 maxLength: 50,
                 nullable: false,
                 oldClrType: typeof(string),
@@ -27,7 +27,7 @@ namespace WebPhotoHostL.Services.Migrations
         {
             migrationBuilder.AlterColumn<string>(
                 name: "Name",
-                table: "Employees",
+                table: "Publications",
                 type: "nvarchar(max)",
                 nullable: false,
                 oldClrType: typeof(string),
@@ -35,7 +35,7 @@ namespace WebPhotoHostL.Services.Migrations
 
             migrationBuilder.AlterColumn<string>(
                 name: "Email",
-                table: "Employees",
+                table: "Publications",
                 type: "nvarchar(max)",
                 nullable: false,
                 oldClrType: typeof(string),

@@ -12,6 +12,9 @@ namespace WebPhotoHostL.Services
         {
 
         }
-        public DbSet<Employee> Employees { get; set; }
+
+        public virtual DbSet<Publication> Publications { get; set; }
+        public virtual DbSet<User> User { get; set; }
+        public virtual DbSet<AdminAccount> AdminAccount { get; set; }
     }
 }

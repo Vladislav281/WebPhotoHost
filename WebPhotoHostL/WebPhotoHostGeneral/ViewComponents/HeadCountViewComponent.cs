@@ -8,18 +8,19 @@ using WebPhotoHostL.Services;
 
 namespace WebPhotoHostGeneral.ViewComponents
 {
+    
     public class HeadCountViewComponent : ViewComponent
     {
-        private readonly IEmployeeRepository _employeeRepository;
+        private readonly IPublicationRepository _publicationRepository;
 
-        public HeadCountViewComponent(IEmployeeRepository employeeRepository)
+        public HeadCountViewComponent(IPublicationRepository publicationRepository)
         {
-            _employeeRepository = employeeRepository;
+            _publicationRepository = publicationRepository;
         }
 
         public IViewComponentResult Invoke(Dept? department = null)
         {
-            var result = _employeeRepository.EmployeeCountByDept(department);
+            var result = _publicationRepository.PublicationCountByDept(department);
             return View(result);
         }
     }

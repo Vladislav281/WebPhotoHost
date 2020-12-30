@@ -20,7 +20,7 @@ namespace WebPhotoHostL.Services.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-            modelBuilder.Entity("WebPhotoHostL.Models.Employee", b =>
+            modelBuilder.Entity("WebPhotoHostL.Models.Publication", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -45,7 +45,7 @@ namespace WebPhotoHostL.Services.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Employees");
+                    b.ToTable("Publications");
                 });
 #pragma warning restore 612, 618
         }

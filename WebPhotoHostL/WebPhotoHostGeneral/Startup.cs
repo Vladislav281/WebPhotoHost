@@ -8,9 +8,13 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.AspNetCore.Http;
+using WebPhotoHostL.Models;
 using WebPhotoHostL.Services;
 using Microsoft.AspNetCore.Routing;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authentication.Cookies;
+
 
 namespace WebPhotoHostGeneral
 {
@@ -26,14 +30,37 @@ namespace WebPhotoHostGeneral
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            
+            //Первый способ
+            /*services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(30);//We set Time here 
+                options.Cookie.HttpOnly = true;
+                options.Cookie.IsEssential = true;
+            });*/
+
             services.AddDbContextPool<AppDbContext>(options =>
             {
-                options.UseSqlServer(Configuration.GetConnectionString("EmployeeDBConnection"));
+                options.UseSqlServer(Configuration.GetConnectionString("PublicationDBConnection"));
             });
-            //services.AddSingleton<IEmployeeRepository, MockEmployeeRepository>(); подключение к псевдо бд
-            services.AddScoped<IEmployeeRepository, SQLEmployeeRepository>(); // реальная бд
+
+            //Cookie
+            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+                .AddCookie(options => 
+                {
+                    options.LoginPath = new Microsoft.AspNetCore.Http.PathString("/Login");
+                    //options.LogoutPath = "/admin/login?handler=signout";
+                    //options.AccessDeniedPath = "/admin/accessdenied";
+                });
+            //services.AddSingleton<IPublicationRepository, MockPublicationRepository>(); подключение к псевдо бд
+            //services.AddSingleton<IUserRepository, MockUserRepository>(); 
+            services.AddScoped<IPublicationRepository, SQLPublicationRepository>(); // реальная бд
+            services.AddScoped<IUserRepository, SQLUserRepository>();
+            services.AddScoped<IAdminRepository, SQLAdminRepository>();
+
+            services.AddDistributedMemoryCache();
+            
             services.AddRazorPages();
+            services.AddSession();
             services.Configure<RouteOptions>(options =>
             {
                 options.LowercaseUrls = true;
@@ -56,11 +83,12 @@ namespace WebPhotoHostGeneral
                 app.UseHsts();
             }
 
+            app.UseSession();
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
