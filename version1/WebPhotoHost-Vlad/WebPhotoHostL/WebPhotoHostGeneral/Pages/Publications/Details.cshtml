@@ -5,15 +5,9 @@
     var photoPath = $"/images/{Model.Publication.PhotoPath ?? "noimage.png"}";
 }
 
-<div class="row justify-content-center m-3">
-    <div class="col col-lg-8">
-        @*@await Component.InvokeAsync("HeadCount", new { department = Model.Publication.Department })*@
-        <vc:head-count department="@Model.Publication.Department"></vc:head-count>
-    </div>
-</div>
 
 <div class="row justify-content-center m-3">
-    <div class="col col-lg-8">
+    <div>
         <div class="card cardBoxShadow">
 
             <div class="card-header cardHeaderStyle text-center">
@@ -26,14 +20,6 @@
                         <h4 class="cardTextLeftFloating">Publication ID: @Model.Publication.Id</h4><hr /> 
                         <h4 class="cardTextLeftFloating">Publication Email: @Model.Publication.Email</h4><hr />
                         <h4 class="cardTextLeftFloating">Publication Department: <span class="text-danger font-weight-bold">@Model.Publication.Department</span></h4><hr />
-                        @if (User.Identity.IsAuthenticated)
-                        {
-					<a class="cardTextLeftFloating" href="@photoPath" download="Image">Download image</a> <!--ЗАГРУЗКА ФАЙЛА-->
-                        }
-                        else
-                        {
-                    <a class="cardTextLeftFloating" asp-page="/Login">Для скачивания необходимо <span class="text-danger font-weight-bold">Войти</span></a>
-                        }
                     </div>
 
                     <div class="col col-lg-3">
@@ -42,16 +28,22 @@
                         </div>
                     </div>
                     
-                </div>
+   
+					<div class="col">
+						<div class="card-footer text-center">
+							@if (User.Identity.IsAuthenticated)
+							{
+						<a class="btn btn-primary" href="@photoPath" download="Image">Download image</a> <!--ЗАГРУЗКА ФАЙЛА--> }
+							else
+							{
+						<a class="btn btn-primary" asp-page="/Login"> <span class="text-danger font-weight-bold">You must be logged in to download</span></a>}
 
-                <div class="row">
-                    <div class="col">
-                        <div class="card-footer text-center" style="background-color: rgba(0,0,0,0.25);">
-                            <a asp-page="Publications" class="btn-success buttonShadow">Back</a>
-                            <!--<a href="#" class="btn-primary buttonShadow">Edit</a>
-                            <a href="#" class="btn-danger buttonShadow">Delete</a>-->
-                        </div>
+							<a class="btn btn-primary" asp-page="Publications" style="color:#ffffff">Back</a>
+							<!--<a href="#" class="btn-primary buttonShadow">Edit</a>
+		                    <a href="#" class="btn-danger buttonShadow">Delete</a>-->
+						</div>
                     </div>
+
                 </div>
             </div>
         </div>
