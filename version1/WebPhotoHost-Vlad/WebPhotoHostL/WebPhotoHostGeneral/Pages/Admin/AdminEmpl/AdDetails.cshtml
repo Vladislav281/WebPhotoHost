@@ -25,33 +25,32 @@
                     <div class="col col-lg-9">
                         <h4 class="cardTextLeftFloating">Publication ID: @Model.Publication.Id</h4><hr />
                         <h4 class="cardTextLeftFloating">Publication Email: @Model.Publication.Email</h4><hr />
-                        <h4 class="cardTextLeftFloating">Publication Department: <span class="text-danger font-weight-bold">@Model.Publication.Department</span></h4><hr />
-                        @if (User.Identity.IsAuthenticated)
-                        {
-                            <a class="cardTextLeftFloating" href="@photoPath" download="Image">Загрузить файл</a> <!--ЗАГРУЗКА ФАЙЛА-->
-                        }
-                        else
-                        {
-                            <a class="cardTextLeftFloating" asp-page="/Login">Для скачивания необходимо <span class="text-danger font-weight-bold">Войти</span></a>
-                        }
+                        <h4 class="cardTextLeftFloating">Publication Department: <span class="text-danger font-weight-bold">@Model.Publication.Department</span></h4>
+                       
+
+
+                        <div class="card-footer text-center" style="background-color: rgb(255, 255, 255);">
+
+                             @if (User.Identity.IsAuthenticated)
+                              {
+                                 <a class="btn btn-success" href="@photoPath" download="Image">Download image</a> <!--ЗАГРУЗКА ФАЙЛА-->
+                              }
+                             else
+                             {
+                                <a class="btn btn-success" asp-page="/Login"><span class="text-danger font-weight-bold">You must be logged in to download</span></a>
+                             }
+
+							    <a class="btn btn-success" asp-page="/Admin/AdminEmpl/AdPublications"  style="color:#ffffff">Back</a>
+							    <!--<a href="#" class="btn-success buttonShadow">Edit</a>
+	                            <a href="#" class="btn-danger buttonShadow">Delete</a>-->
+						</div>
                     </div>
 
-                    <div class="col col-lg-3">
-                        <div style="border-right: 1px solid rgba(0,0,0,.1);">
-                            <img class="card-img-top imageThumbnail border-primary" style="background-color: #dle7ff;" src="@photoPath" asp-append-version="true" />
+                        <div class="col col-lg-3">
+                            <div style="border-right: 1px solid rgba(0,0,0,.1);">
+                                <img class="card-img-top imageThumbnail border-primary" style="color:#ffffff";" src="@photoPath" asp-append-version="true" />
+                            </div>
                         </div>
-                    </div>
-
-                </div>
-
-                <div class="row">
-                    <div class="col">
-                        <div class="card-footer text-center" style="background-color: rgba(0,0,0,0.25);">
-                            <a asp-page="/Admin/AdminEmpl/AdPublications" class="btn-success buttonShadow">Back</a>
-                            <!--<a href="#" class="btn-success buttonShadow">Edit</a>
-                            <a href="#" class="btn-danger buttonShadow">Delete</a>-->
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
