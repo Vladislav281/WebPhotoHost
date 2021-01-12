@@ -1,0 +1,19 @@
+﻿@model IEnumerable<CatCount>
+
+    <!--Таблица, где показаны дынные по категориям-->
+    <table class="table table-hover rounded-pill">
+        <thead class="thead-light">
+            <tr>
+                <th>Categories</th>
+                <th>Count</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+<tr>
+    <td>@item.Category</td>
+    <td>@item.Count</td>
+</tr>}
+        </tbody>
+    </table>

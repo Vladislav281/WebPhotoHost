@@ -1,0 +1,23 @@
+﻿@model Publication
+@using Microsoft.AspNetCore.Authorization;
+
+@{
+    // путь к изображениям
+    var photoPath = $"/images/{Model.PhotoPath ?? "noimage.png"}"; 
+    
+}
+
+<div class="card-deck">
+    <div class="card m-3 cardBoxShadow">
+        <div class="card-header text-center cardHeaderStyle">
+            <h3>@Model.Name</h3> <!--Название публикации-->
+        </div>
+
+        <div class="text-center cardBodyStyle">
+            <img class="card-image-top imageThumbnail" src="@photoPath" asp-append-version="true" /> <!--ВЫвод фотографии-->
+        </div>
+        
+        <a asp-page="/Publications/Details" asp-route-Id="@Model.Id" class="btn btn-success m-1 buttonShadows">View</a> <!--Передача Id из модели и переход к странице details-->
+       
+    </div>
+</div>
