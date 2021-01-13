@@ -1,9 +1,0 @@
-C:\Users\snake\source\repos\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.deps.json
-C:\Users\snake\source\repos\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.dll
-C:\Users\snake\source\repos\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.pdb
-C:\Users\snake\source\repos\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.csprojAssemblyReference.cache
-C:\Users\snake\source\repos\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.AssemblyInfoInputs.cache
-C:\Users\snake\source\repos\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.AssemblyInfo.cs
-C:\Users\snake\source\repos\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.dll
-C:\Users\snake\source\repos\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.pdb
-C:\Users\snake\source\repos\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.csproj.CoreCompileInputs.cache
