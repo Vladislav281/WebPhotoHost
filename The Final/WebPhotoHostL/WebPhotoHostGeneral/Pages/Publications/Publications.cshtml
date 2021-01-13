@@ -1,0 +1,36 @@
+﻿@page
+@model WebPhotoHostGeneral.Pages.Publications.PublicationsModel
+@{ 
+    ViewData["Title"] = "Publications";
+    ViewData["ShowButtons"] = true; 
+}
+
+@if (TempData["SuccessMessage"] != null)
+{
+<div class="alert alert-success text-center">
+    @TempData["SuccessMessage"]
+</div>}
+
+<!--Поиск-->
+<form method="get" class="mb-3">
+    <div class="input-group">
+        <input class="form-control" asp-for="SearchTerm" />
+        <div class="input-group-append">
+            <button type="submit" class="btn btn-success">Search</button>
+        </div>
+    </div>
+</form>
+
+
+<vc:head-count department="@null"></vc:head-count>
+
+<h1 align="center">Recent publications</h1>
+
+
+<div class="row">
+    @foreach (var item in Model.Publications) //вывод публикаций
+    {
+<div class="col-12 col-sm-6 col-lg-4">
+    <partial name="_DisplayPublicationPartial" model="item" view-data="ViewData" />
+</div>}
+</div>

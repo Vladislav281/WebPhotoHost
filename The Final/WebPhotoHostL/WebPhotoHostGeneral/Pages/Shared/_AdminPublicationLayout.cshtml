@@ -1,0 +1,31 @@
+﻿@model Publication
+@using Microsoft.AspNetCore.Authorization;
+
+@{
+
+    var photoPath = $"/images/{Model.PhotoPath ?? "noimage.png"}";
+    
+}
+
+<div class="card-deck">
+    <div class="card m-3 cardBoxShadow">
+        <div class="card-header text-center cardHeaderStyle">
+            <h3>@Model.Name</h3>
+        </div>
+
+        <div class="text-center cardBodyStyle">
+            <img class="card-image-top imageThumbnail" src="@photoPath" asp-append-version="true" />
+        </div>
+        
+        
+        
+           
+            <div calss="card-footer text-center">
+                <a asp-page="/Admin/AdminEmpl/AdDetails" asp-route-Id="@Model.Id" class="btn btn-success m-1 buttonShadows">View</a>
+                <a asp-page="/Admin/AdminEmpl/AdEdit" asp-route-Id="@Model.Id" class="btn btn-primary m-1 buttonShadows">Edit</a>
+                <a asp-page="/Admin/AdminEmpl/AdDelete" asp-route-Id="@Model.Id" class="btn btn-danger m-1 buttonShadows">Delete</a>
+            </div>
+            
+        
+    </div>
+</div>
