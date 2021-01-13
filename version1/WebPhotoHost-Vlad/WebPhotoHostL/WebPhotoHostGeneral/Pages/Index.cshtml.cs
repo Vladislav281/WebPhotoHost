@@ -22,7 +22,6 @@ namespace WebPhotoHostGeneral.Pages
 
         public void OnGet()
         {
-            Message = $"Welcome\nThe time now is: {DateTime.Now.ToLongTimeString()}";
         }
     }
 }
