@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aKlwFVvHNvWFY2hOGmBiU5sH1+SW8oCg1autfcrWIoqQOgMrJtVfpeEAVoOSs84QtX4wh5TwiNK4WyuV/Kt4uA==",
+  "dgSpecHash": "KPoBzeI8minZiP3LB/F5WeSWHqIUHGnEeBvQ0nLNRZXt7dRtrErzEnugWB1BxIcb/48PPMFslgfGr2X2RICj4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj",
+  "projectFilePath": "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\snake\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
     "C:\\Users\\snake\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

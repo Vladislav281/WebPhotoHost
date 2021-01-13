@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u9lfFl2j0+1+UWEN+YAQUPXp0yB5WbBEubAKUwUTx/6SkwtYjQlR7fFLNFTYeFH1RZ1X/o/ZP60w97PeW9MPGA==",
+  "dgSpecHash": "0mMoYe3Zeq/6iMjnoXDpqdMZ+K7SSBWbyzJlZeD24qY6ix0NSKXW2PstxgD8vYEU982itvkXV9v0nGKWyPAGgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj",
+  "projectFilePath": "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\snake\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
     "C:\\Users\\snake\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

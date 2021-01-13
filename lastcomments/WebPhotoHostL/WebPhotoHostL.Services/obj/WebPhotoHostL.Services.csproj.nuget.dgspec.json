@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj": {}
+    "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj": {
+    "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj",
+        "projectUniqueName": "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj",
         "projectName": "WebPhotoHostL.Models",
-        "projectPath": "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj",
+        "projectPath": "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj",
         "packagesPath": "C:\\Users\\snake\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\obj\\",
+        "outputPath": "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj": {
+    "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj",
+        "projectUniqueName": "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj",
         "projectName": "WebPhotoHostL.Services",
-        "projectPath": "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj",
+        "projectPath": "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj",
         "packagesPath": "C:\\Users\\snake\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Services\\obj\\",
+        "outputPath": "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -98,8 +98,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj": {
-                "projectPath": "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj"
+              "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj": {
+                "projectPath": "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj"
               }
             }
           }

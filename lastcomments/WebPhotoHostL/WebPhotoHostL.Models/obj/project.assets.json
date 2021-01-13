@@ -319,11 +319,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj",
+      "projectUniqueName": "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj",
       "projectName": "WebPhotoHostL.Models",
-      "projectPath": "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj",
+      "projectPath": "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj",
       "packagesPath": "C:\\Users\\snake\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\obj\\",
+      "outputPath": "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

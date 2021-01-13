@@ -8648,11 +8648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostGeneral\\WebPhotoHostGeneral.csproj",
+      "projectUniqueName": "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostGeneral\\WebPhotoHostGeneral.csproj",
       "projectName": "WebPhotoHostGeneral",
-      "projectPath": "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostGeneral\\WebPhotoHostGeneral.csproj",
+      "projectPath": "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostGeneral\\WebPhotoHostGeneral.csproj",
       "packagesPath": "C:\\Users\\snake\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostGeneral\\obj\\",
+      "outputPath": "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostGeneral\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -8672,11 +8672,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj": {
-              "projectPath": "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj"
+            "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj": {
+              "projectPath": "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj"
             },
-            "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj": {
-              "projectPath": "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj"
+            "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj": {
+              "projectPath": "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Services\\WebPhotoHostL.Services.csproj"
             }
           }
         }

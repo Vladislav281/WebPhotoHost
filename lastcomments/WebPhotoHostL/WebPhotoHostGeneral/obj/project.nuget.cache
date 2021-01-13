@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F1da4AzyqUFBfC0oGyi7YTZXvqRF3txSuzqRRhi9HqtvaghiSc80KprC2fhNPzg5AnfNh7/NYJYYUz+qcqYQyg==",
+  "dgSpecHash": "mREIOM8onzgD7ag6AN23u4A4vcB2jcrSV6jAA/2palW2FBYn8tRdNpgDCKNWQLHylFm6IFB09MgQ/9SvpI2d9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\snake\\Desktop\\lastcomments\\WebPhotoHostL\\WebPhotoHostGeneral\\WebPhotoHostGeneral.csproj",
+  "projectFilePath": "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostGeneral\\WebPhotoHostGeneral.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\snake\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
     "C:\\Users\\snake\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
