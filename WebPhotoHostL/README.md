@@ -1,2 +1,0 @@
-# WebPhotoHost
- Фотохост
