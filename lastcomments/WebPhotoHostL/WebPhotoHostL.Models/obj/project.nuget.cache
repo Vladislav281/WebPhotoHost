@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0mMoYe3Zeq/6iMjnoXDpqdMZ+K7SSBWbyzJlZeD24qY6ix0NSKXW2PstxgD8vYEU982itvkXV9v0nGKWyPAGgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\snake\\Desktop\\Remake\\lastcomments\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\snake\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
+    "C:\\Users\\snake\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\snake\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\snake\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
