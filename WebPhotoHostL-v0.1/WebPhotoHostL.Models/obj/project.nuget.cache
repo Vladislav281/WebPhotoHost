@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ASmuIYK/sWfk9bs4sl3DKeMGeoKilKL1NuQ6Qcyxqn4zn83FQdag1bYtU0g8ktHcbcAIg/CqMmhTCQ8AG5ZeBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\WebPhotoHost-main\\Last\\WebPhotoHostL\\WebPhotoHostL.Models\\WebPhotoHostL.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

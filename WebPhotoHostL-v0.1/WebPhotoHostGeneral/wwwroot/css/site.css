@@ -1,0 +1,118 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+  margin-top: 80px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+.imageThumbnail {
+    height: 150px;
+    max-width: 150px;
+}
+
+
+.cardHeaderStyle {
+    background: rgba(0,96,120,1);
+    background: -moz-linear-gradient(left, rgba(0,96,120,1) 0%, rgba(165,182,194,1) 50%, rgba(176,185,212,1) 51%, rgba(40,67,247,1) 71%, rgba(0,51,255,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(0,96,120,1)), color-stop(50%, rgba(165,182,194,1)), color-stop(51%, rgba(176,185,212,1)), color-stop(71%, rgba(40,67,247,1)), color-stop(100%, rgba(0,51,255,1)));
+    background: -webkit-linear-gradient(left, rgba(0,96,120,1) 0%, rgba(165,182,194,1) 50%, rgba(176,185,212,1) 51%, rgba(40,67,247,1) 71%, rgba(0,51,255,1) 100%);
+    background: -o-linear-gradient(left, rgba(0,96,120,1) 0%, rgba(165,182,194,1) 50%, rgba(176,185,212,1) 51%, rgba(40,67,247,1) 71%, rgba(0,51,255,1) 100%);
+    background: -ms-linear-gradient(left, rgba(0,96,120,1) 0%, rgba(165,182,194,1) 50%, rgba(176,185,212,1) 51%, rgba(40,67,247,1) 71%, rgba(0,51,255,1) 100%);
+    background: linear-gradient(to right, rgba(0,96,120,1) 0%, rgba(165,182,194,1) 50%, rgba(176,185,212,1) 51%, rgba(40,67,247,1) 71%, rgba(0,51,255,1) 100%);
+    border-radius: 45px 0 0 0 !important;
+    color: #000;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+.card {
+    border-radius: 45px 0 45px 0;
+}
+
+.menuBg {
+    background: rgba(19,6,120,1);
+    background: -moz-linear-gradient(left, rgba(19,6,120,1) 0%, rgba(23,8,158,1) 31%, rgba(36,12,245,1) 51%, rgba(94,76,255,1) 71%, rgba(156,145,255,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(19,6,120,1)), color-stop(31%, rgba(23,8,158,1)), color-stop(51%, rgba(36,12,245,1)), color-stop(71%, rgba(94,76,255,1)), color-stop(100%, rgba(156,145,255,1)));
+    background: -webkit-linear-gradient(left, rgba(19,6,120,1) 0%, rgba(23,8,158,1) 31%, rgba(36,12,245,1) 51%, rgba(94,76,255,1) 71%, rgba(156,145,255,1) 100%);
+    background: -o-linear-gradient(left, rgba(19,6,120,1) 0%, rgba(23,8,158,1) 31%, rgba(36,12,245,1) 51%, rgba(94,76,255,1) 71%, rgba(156,145,255,1) 100%);
+    background: -ms-linear-gradient(left, rgba(19,6,120,1) 0%, rgba(23,8,158,1) 31%, rgba(36,12,245,1) 51%, rgba(94,76,255,1) 71%, rgba(156,145,255,1) 100%);
+    background: linear-gradient(to right, rgba(19,6,120,1) 0%, rgba(23,8,158,1) 31%, rgba(36,12,245,1) 51%, rgba(94,76,255,1) 71%, rgba(156,145,255,1) 100%);
+
+}
+
+.containerBordered {
+    border-right: 1px solid #dee2e6;
+    border-left: 1px solid #dee2e6;
+}
+
+.cardTextLeftFloating{
+    text-align: left;
+    text-transform: uppercase;
+    padding-left: 20px;
+}

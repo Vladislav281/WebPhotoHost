@@ -1,0 +1,63 @@
+C:\Users\snake\source\repos\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.deps.json
+C:\Users\snake\source\repos\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.dll
+C:\Users\snake\source\repos\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.pdb
+C:\Users\snake\source\repos\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.csprojAssemblyReference.cache
+C:\Users\snake\source\repos\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.AssemblyInfoInputs.cache
+C:\Users\snake\source\repos\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.AssemblyInfo.cs
+C:\Users\snake\source\repos\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.dll
+C:\Users\snake\source\repos\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.pdb
+C:\Users\snake\source\repos\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.csproj.CoreCompileInputs.cache
+C:\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.deps.json
+C:\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.dll
+C:\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.pdb
+C:\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.csprojAssemblyReference.cache
+C:\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.AssemblyInfoInputs.cache
+C:\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.AssemblyInfo.cs
+C:\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.csproj.CoreCompileInputs.cache
+C:\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.dll
+C:\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.pdb
+C:\Backup with Auth\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.deps.json
+C:\Backup with Auth\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.dll
+C:\Backup with Auth\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.pdb
+C:\Backup with Auth\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.csprojAssemblyReference.cache
+C:\Backup with Auth\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.AssemblyInfoInputs.cache
+C:\Backup with Auth\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.AssemblyInfo.cs
+C:\Backup with Auth\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.dll
+C:\Backup with Auth\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.pdb
+C:\Backup with Auth\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.csproj.CoreCompileInputs.cache
+C:\WebPhotoHost-Vlad\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.deps.json
+C:\WebPhotoHost-Vlad\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.dll
+C:\WebPhotoHost-Vlad\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.pdb
+C:\WebPhotoHost-Vlad\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.csprojAssemblyReference.cache
+C:\WebPhotoHost-Vlad\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.AssemblyInfoInputs.cache
+C:\WebPhotoHost-Vlad\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.AssemblyInfo.cs
+C:\WebPhotoHost-Vlad\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.csproj.CoreCompileInputs.cache
+C:\WebPhotoHost-Vlad\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.dll
+C:\WebPhotoHost-Vlad\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.pdb
+C:\Users\snake\Desktop\ReHost\WebPhotoHost-Vlad\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.deps.json
+C:\Users\snake\Desktop\ReHost\WebPhotoHost-Vlad\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.dll
+C:\Users\snake\Desktop\ReHost\WebPhotoHost-Vlad\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.pdb
+C:\Users\snake\Desktop\ReHost\WebPhotoHost-Vlad\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.csprojAssemblyReference.cache
+C:\Users\snake\Desktop\ReHost\WebPhotoHost-Vlad\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.AssemblyInfoInputs.cache
+C:\Users\snake\Desktop\ReHost\WebPhotoHost-Vlad\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.AssemblyInfo.cs
+C:\Users\snake\Desktop\ReHost\WebPhotoHost-Vlad\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.csproj.CoreCompileInputs.cache
+C:\Users\snake\Desktop\ReHost\WebPhotoHost-Vlad\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.dll
+C:\Users\snake\Desktop\ReHost\WebPhotoHost-Vlad\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.pdb
+C:\Users\snake\Desktop\ReHost\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.deps.json
+C:\Users\snake\Desktop\ReHost\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.dll
+C:\Users\snake\Desktop\ReHost\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.pdb
+C:\Users\snake\Desktop\ReHost\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.csprojAssemblyReference.cache
+C:\Users\snake\Desktop\ReHost\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.AssemblyInfoInputs.cache
+C:\Users\snake\Desktop\ReHost\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.AssemblyInfo.cs
+C:\Users\snake\Desktop\ReHost\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.csproj.CoreCompileInputs.cache
+C:\Users\snake\Desktop\ReHost\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.dll
+C:\Users\snake\Desktop\ReHost\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.pdb
+C:\Users\user\Desktop\WebPhotoHost-main\Last\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.deps.json
+C:\Users\user\Desktop\WebPhotoHost-main\Last\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.dll
+C:\Users\user\Desktop\WebPhotoHost-main\Last\WebPhotoHostL\WebPhotoHostL.Models\bin\Debug\netstandard2.0\WebPhotoHostL.Models.pdb
+C:\Users\user\Desktop\WebPhotoHost-main\Last\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.csprojAssemblyReference.cache
+C:\Users\user\Desktop\WebPhotoHost-main\Last\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\WebPhotoHost-main\Last\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.AssemblyInfo.cs
+C:\Users\user\Desktop\WebPhotoHost-main\Last\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WebPhotoHost-main\Last\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.dll
+C:\Users\user\Desktop\WebPhotoHost-main\Last\WebPhotoHostL\WebPhotoHostL.Models\obj\Debug\netstandard2.0\WebPhotoHostL.Models.pdb
